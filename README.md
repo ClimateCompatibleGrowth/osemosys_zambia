@@ -1,6 +1,10 @@
 # OSeMOSYS-Zambia
-For the moment the repository stores the .zip files required to restore a model in the UNDESA-developed user interface.
-To add the model to the UI, download the desired .zip file and import it through the "Restore model" button in the Home tab.
 
-- UI_Zambia_v2l_reference_full.zip is the model with all 0s as generated from the clicSAND excel file
-- UI_Zambia_v2l_reference_light.zip is the clean version of the model as generated through clicSAND.exe 
+This repository currently only contains the input data of OSeMOSYS-Zambia for the reference scenario. A future update will include more detailed input data and model documentation.
+
+
+- OSeMOSYS-Zambia-WESM-reference-scenario.zip is the model file for the reference scenario that can be imported in the UNDESA-developed user interface (UI).
+- OSeMOSYS-Zambia-WESM-reference-scenario.txt is the basic data file for the reference scenario.
+- OSeMOSYS-preprocessing.txt is the model file that is used in conjunction with the data file.
+
+To add the model to the UI, download the .zip file and import it through the "Restore model" button in the Home tab.
